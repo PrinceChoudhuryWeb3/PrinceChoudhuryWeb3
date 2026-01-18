@@ -21,7 +21,7 @@
 
 ## 🚀 About Me
 
-Web3 Entrepreneur • Blockchain Innovator • Creating the future of decentralized world  
+Prince Choudhury: Web3 Entrepreneur • Blockchain Innovator • Creating the future of decentralized world  
 Currently focused on: DeFi • NFTs • DAOs • Real World Assets (RWA)
 
 - 🌱 Always learning: Solidity, Rust, Move, Hardhat, Foundry
