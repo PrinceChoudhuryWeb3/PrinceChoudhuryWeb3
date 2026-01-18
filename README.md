@@ -1,27 +1,8 @@
 <!-- 
-  Hi there! I am Prince Choudhury: Web3 Entrepreneur, Blockchain Innovator, and Award-Winning Humanitarian 🌐✨
--->
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Prince+Choudhury;Web3+Entrepreneur+%F0%9F%8C%90;Blockchain+Innovator+%F0%9F%94%97;Award-Winning+Humanitarian+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
-</div>
+## 🚀 About Me : Hi ! Everyone, I am Prince Choudhury
 
-<br/>
-
-<!-- Animated snake eating your contributions - super cool! -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrinceChoudhuryWeb3/PrinceChoudhuryWeb3/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrinceChoudhuryWeb3/PrinceChoudhuryWeb3/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/PrinceChoudhuryWeb3/PrinceChoudhuryWeb3/output/github-snake.svg" />
-  </picture>
-</div>
-
-<br/>
-
-## 🚀 About Me
-
-Prince Choudhury: Web3 Entrepreneur • Blockchain Innovator • Creating the future of decentralized world  
+Web3 Entrepreneur • Blockchain Innovator • Creating the future of decentralized world  
 Currently focused on: DeFi • NFTs • DAOs • Real World Assets (RWA)
 
 - 🌱 Always learning: Solidity, Rust, Move, Hardhat, Foundry
